@@ -21,5 +21,5 @@ function AnimalFacts() {
         </div>
     );
 }
-//<button onClick={getFacts} type="submit">Get new facts</button>
+
 export default AnimalFacts;
